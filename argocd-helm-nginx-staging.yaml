@@ -12,6 +12,6 @@ spec:
     helm:
       valueFiles:
       - values-staging.yaml
-    path: templates
+    path: 
     repoURL: https://github.com/ryuriymega/helm
     targetRevision: HEAD
